@@ -166,4 +166,4 @@ async def play(ctx, url):
         await ctx.send(f"je lance : {video.url}")
         play_song(client, musics[ctx.guild], video)
     
-bot.run("OTExMzczODA0NDQwMjg5NDIw.YZgc_w.w7HZ7DCxCgAl3t90mokY7ubD52w")
+bot.run(mon token)
